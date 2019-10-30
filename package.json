@@ -1,0 +1,23 @@
+{
+  "name": "sichuan-statistics-server",
+  "version": "1.0.0",
+  "description": "四川统计爬虫服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xietianfu/sichuan-statistics-server.git"
+  },
+  "keywords": [
+    "spider",
+    "node.js"
+  ],
+  "author": "xietf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xietianfu/sichuan-statistics-server/issues"
+  },
+  "homepage": "https://github.com/xietianfu/sichuan-statistics-server#readme"
+}
